@@ -13,6 +13,6 @@ My Data Science Portfolio which is an ongoing process of my projects created dur
  - Project 7: Airport Delays + Cluster Analysis + Data Analytics 
 
 
-During the Data Science Immersive course at General Assembly I completed 7 projets showcasing use of python and general coding knowledge as well as understanding machine learning, statistics, and data analytics to solve real life problems.  The readme files serve to help better understand the code and approach taken. All solutions can be found in the corresponding project's "solutions" folder - labeled as that project's name.
+During the Data Science Immersive course at General Assembly I completed 7 projets showcasing use of python and general coding knowledge as well as understanding machine learning, statistics, and data analytics to solve real life problems.  The readme files serve to help better understand the code and approach taken. Please feel free to review my code and leave comments. 
 
 Skills Showcased: Python | SQL | Tableau | Machine Learning | Web Scraping | Regex | Pandas | NumPy | Linear & Logistic Regression modeling | Random Forests | Natural Language Processing | AWS | 
